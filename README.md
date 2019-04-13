@@ -1,5 +1,9 @@
 # bad-words
 A list of bad russian words that can be used in debug messages or for song lyrics
+
+<details>
+  <summary>Click to expand (careful, bad words)</summary>
+
 ```
 хуй
 пизда
@@ -42,5 +46,7 @@ A list of bad russian words that can be used in debug messages or for song lyric
 блядь
 твою ж мать
 сукин сын
+</details>
+
 
 # есть ещё много рассово-национальных обидных слов, но их наверное не буду перечислять...
