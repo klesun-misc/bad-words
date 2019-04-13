@@ -18,7 +18,6 @@ A list of bad russian words that can be used in debug messages or for song lyric
 сыкло
 чмо
 петух
-писька
 шалава
 дебила кусок
 анонист проклятый
@@ -27,3 +26,14 @@ A list of bad russian words that can be used in debug messages or for song lyric
 даун
 ублюдок
 выродок
+уебан
+пидрила
+хуесос
+пиздобол
+мудоёб
+задрот
+распидорасило
+ебло тупое
+ёбаный в рот
+пиздец
+я ебал
