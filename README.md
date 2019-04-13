@@ -41,5 +41,6 @@ A list of bad russian words that can be used in debug messages or for song lyric
 быдло
 блядь
 твою ж мать
+сукин сын
 
 # есть ещё много рассово-национальных обидных слов, но их наверное не буду перечислять...
