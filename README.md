@@ -62,6 +62,7 @@ A list of bad russian words that can be used in debug messages or for song lyric
 - по пизде пошло - сломалось и продолжало работать продолжительное время
 - ну ёбаный в рот - ну как же так
 - сорри, я мудак - извините, ошибся
+- доебаться - подойти с вопросом
 
 </details>
 
